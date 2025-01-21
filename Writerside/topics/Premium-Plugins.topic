@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Premium Plugins" id="Premium-Plugins">
+
+    <chapter title="What are Premium Plugins?" id="what-are-premium-plugins">
+        <title>What are Premium Plugins?</title>
+        <p>
+            Premium plugins are made by the <a href="https://lode.gg/about"><format color="LightSkyBlue">Lodestone Team</format></a>. <br />
+            These plugins help support the developer as these plugins are made by our developer's free time.<br />
+        </p>
+    </chapter>
+    <chapter title="What plugins are premium?" id="what-plugins-are-premium">
+        <title>What plugins are Premium?</title>
+        <procedure>
+            <step><a href="https://lode.gg/plugin/observer"><format color="LightSkyBlue">Observer</format></a> - $39.99 - Observer completely overhauls your event management.</step>
+            <step><a href="https://lode.gg/plugin/barriers"><format color="LightSkyBlue">Barrier</format></a> - $14.99 - Your Vanilla World Border Replacement</step>
+            <step><a href="https://lode.gg/plugin/nametags"><format color="LightSkyBlue">Name Tag</format></a> - $9.99 - A lightweight and highly customizable nick plugin!</step>
+        </procedure>
+    </chapter>
+    <chapter title="How do I whitelist my server?" id="how-do-i-whitelist-my-server">
+        <title>How do I whitelist my server?</title>
+        <p>
+            <a href="https://lode.gg/login"><format color="LightSkyBlue">Login</format></a> to our dashboard using Discord.<br />
+            Then you can head onto our <a href="https://lode.gg/dashboard/plugins"><format color="LightSkyBlue">dashboard</format></a> to browse the list of plugins that you own.<br />
+            After selecting the desired plugin you want to edit, you now need the ip of your server.<br />
+        </p>
+        <tldr>
+            <p>Lazy reading? You can watch this video below:<br /><a href="https://www.youtube.com/watch?v=BIW0vu8-Gr4"><format color="LightSkyBlue">https://www.youtube.com/watch?v=BIW0vu8-Gr4</format></a></p>
+        </tldr>
+    </chapter>
+</topic>

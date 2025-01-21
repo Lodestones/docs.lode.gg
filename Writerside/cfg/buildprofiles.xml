@@ -3,11 +3,23 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <variables>
+        <header-logo>lodestone.png</header-logo>
+        <download-title>Browse our Plugins</download-title>
+        <download-page>https://lode.gg/plugins</download-page>
+        <showDownloadButton>true</showDownloadButton>
+        <product-web-url>https://lode.gg/</product-web-url>
+        <custom-favicons>https://lode.gg/favicon.ico</custom-favicons>
+    </variables>
     <build-profile instance="in">
         <variables>
             <noindex-content>true</noindex-content>
         </variables>
+        <footer>
+            <social type="twitter" href="https://x.com/@lodeofficial" />
+            <social type="youtube" href="https://x.com/@lodestoneofficial" />
+            <copyright>2025 - Lodestone Services LLC</copyright>
+        </footer>
     </build-profile>
 
 </buildprofiles>

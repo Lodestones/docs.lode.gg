@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Purchasing Observer" id="Purchasing-Observer">
+
+    <p>
+        Purchasing Observer is relatively simple.<br/>
+        Log into our <a href="https://lode.gg/login"><format color="LightSkyBlue">website</format></a> via Discord before doing anything.<br/>
+        After that, you can head onto our <a href="https://lode.gg/plugins"><format color="LightSkyBlue">plugins</format></a> page and find Observer.<br/>
+        Then, you can click <ui-path>Purchase for $x.xx</ui-path> and proceed to checkout.
+    </p>
+    <warning>
+        Observer completely overhauls possible event plugins, it offers featues that are usually separated into individual plugins. Do not purchase Observer and expect it to work alongside other plugins.
+    </warning>
+    <note>
+        If you do end up purchasing Observer and you need to use another plugin that clashes with Observer, you can toggle certain features off so the other plugin can take over.
+    </note>
+    <p>
+        After purchasing Observer, you can visit our <a href="https://lode.gg/dashboard/plugins"><format color="LightSkyBlue">plugin dashboard</format></a> to edit any plugins that you own.
+        To continue knowing how to download and whitelist your server's ip to the plugin, read our documentation <a href="Premium-Plugins.topic"><format color="LightSkyBlue">here</format></a>.
+    </p>
+
+</topic>

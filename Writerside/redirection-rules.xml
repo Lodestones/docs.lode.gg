@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="1d3f428a">
+        <description>Created after removal of "Purchasing Observer" from Lodestone Documentation</description>
+        <accepts>Purchasing-Observer.html</accepts>
+    </rule>
+    <rule id="4a4d15a5">
+        <description>Created after removal of "Setting Up Premium Plugins" from Lodestone Documentation</description>
+        <accepts>Setting-Up-Premium-Plugins.html</accepts>
+    </rule>
+</rules>

@@ -3,8 +3,14 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="Instance Name"
-                 start-page="starter.md">
+                 name="Lodestone Documentation"
+                 start-page="Getting-Started.md">
 
-    <toc-element topic="starter.md"/>
+    <toc-element topic="Getting-Started.md"/>
+    <toc-element topic="Observer.md">
+        <toc-element topic="Purchasing-Observer.topic"/>
+        <toc-element topic="Installation.md">
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Premium-Plugins.topic"/>
 </instance-profile>
