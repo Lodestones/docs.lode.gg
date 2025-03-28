@@ -8,8 +8,26 @@
 
     <toc-element topic="Getting-Started.md"/>
     <toc-element topic="Observer.md">
-        <toc-element topic="Purchasing-Observer.topic"/>
-        <toc-element topic="Installation.md">
+        <toc-element topic="Server.md">
+            <toc-element topic="Purchasing-Observer.md"/>
+            <toc-element topic="Installation.md"/>
+        </toc-element>
+        <toc-element topic="API.md">
+            <toc-element topic="Managers.md">
+                <toc-element topic="ICapsuleManager.md"/>
+                <toc-element topic="ICustomRecipesManager.md"/>
+                <toc-element topic="IDecayManager.md"/>
+                <toc-element topic="IEliminationManager.md"/>
+                <toc-element topic="ILateScatterManager.md"/>
+                <toc-element topic="ILifestealManager.md"/>
+                <toc-element topic="IMechanicsManager.md"/>
+                <toc-element topic="IPedestalManager.md">
+                </toc-element>
+                <toc-element topic="IPlayerManager.md"/>
+                <toc-element topic="IRespawnManager.md"/>
+                <toc-element topic="ITranslationManager.md"/>
+            </toc-element>
+            <toc-element topic="Events.md"/>
         </toc-element>
     </toc-element>
     <toc-element topic="Premium-Plugins.topic"/>

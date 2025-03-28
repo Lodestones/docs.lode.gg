@@ -14,4 +14,16 @@
         <description>Created after removal of "Setting Up Premium Plugins" from Lodestone Documentation</description>
         <accepts>Setting-Up-Premium-Plugins.html</accepts>
     </rule>
+    <rule id="729cf11e">
+        <description>Created after removal of "Purchasing Observer" from Lodestone Documentation</description>
+        <accepts>Purchasing-Observer.html</accepts>
+    </rule>
+    <rule id="3e389f19">
+        <description>Created after removal of "ICapsuleManager" from Lodestone Documentation</description>
+        <accepts>Capsule-Manager.html</accepts>
+    </rule>
+    <rule id="4a6c9db3">
+        <description>Created after removal of "ILateScatterManager" from Lodestone Documentation</description>
+        <accepts>ILateScatterManager.html</accepts>
+    </rule>
 </rules>
