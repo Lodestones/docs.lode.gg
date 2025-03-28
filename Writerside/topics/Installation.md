@@ -8,5 +8,3 @@ Observer requires the following plugins to be installed:<br />
 - <format color="CornflowerBlue">[CommandAPI](https://modrinth.com/plugin/commandapi/versions)</format> - The CommandAPI provides full support for the new command UI which was implemented in Minecraft's 1.13 update.
 - <format color="CornflowerBlue">[Bookshelf](https://modrinth.com/plugin/bookshelves/versions)</format> - A better alternative for EssentialsX, allowing you to use vanilla selectors like @e, @a, or @s. Bookshelf also offers a powerful API that can be used for everyday plugin development.
 - <format color="CornflowerBlue">[packetevents](https://modrinth.com/plugin/packetevents/versions)</format> - Precision meets performance—a powerful tool for mastering Minecraft packet manipulation with speed and finesse.
-
-## 
