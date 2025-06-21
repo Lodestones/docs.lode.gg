@@ -5,5 +5,36 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Home" id="Home">
 
-    <p>Start typing here...</p>
+    <p>Welcome to the Lodestone documentation!</p>
+    
+    <p>This documentation covers all Lodestone projects and plugins.</p>
+    
+    <h2>Available Documentation</h2>
+    
+    <h3>Plugins</h3>
+    <ul>
+        <li><a href="Amplifier.topic">Amplifier</a> - Voice chat enhancement plugin</li>
+        <li><a href="Managers.topic">Managers</a> - Core management systems</li>
+        <li><a href="Observer.topic">Observer</a> - Monitoring and analytics</li>
+    </ul>
+    
+    <h3>API Documentation</h3>
+    <ul>
+        <li><a href="API.topic">API Overview</a> - General API information</li>
+        <li><a href="Events.topic">Events</a> - Event system documentation</li>
+    </ul>
+    
+    <h3>Getting Started</h3>
+    <ul>
+        <li><a href="Getting-Started.topic">Getting Started</a> - Quick start guide</li>
+        <li><a href="Installation.topic">Installation</a> - Installation instructions</li>
+        <li><a href="Server.topic">Server Setup</a> - Server configuration</li>
+    </ul>
+    
+    <h3>Premium Features</h3>
+    <ul>
+        <li><a href="Premium-Plugins.topic">Premium Plugins</a> - Premium plugin information</li>
+        <li><a href="Purchasing-Observer.topic">Purchasing Observer</a> - How to purchase Observer</li>
+    </ul>
+
 </topic>

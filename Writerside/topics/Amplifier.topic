@@ -1,0 +1,53 @@
+# Amplifier
+
+Amplifier is a powerful voice chat enhancement plugin for Minecraft servers that integrates with Simple Voice Chat. It provides advanced voice management features, cross-server broadcasting, and a comprehensive API for developers.
+
+## Overview
+
+Amplifier extends the functionality of Simple Voice Chat by adding:
+
+- **Advanced Voice Management**: Individual player voice settings (volume, pitch, distance)
+- **Broadcasting System**: Allow players to broadcast their voice across the server
+- **Cross-Server Communication**: Redis integration for voice broadcasting across multiple servers
+- **Developer API**: Comprehensive API for plugin developers to integrate voice features
+- **Flexible Storage**: Support for local, MySQL, and MongoDB storage backends
+
+## Key Features
+
+### For Server Owners
+- **Voice Chat Controls**: Enable/disable voice chat globally or per player
+- **Distance Management**: Configure voice chat distances and individual player ranges
+- **Broadcasting**: Allow players to broadcast their voice to all players
+- **Cross-Server Support**: Share voice broadcasts across multiple servers via Redis
+- **Storage Options**: Choose between local, MySQL, or MongoDB storage
+
+### For Developers
+- **Comprehensive API**: Full access to voice management features
+- **Event System**: Listen to voice chat events and modify behavior
+- **Player Management**: Manage individual player voice settings programmatically
+- **Sound Playback**: Play custom sounds at specific locations
+- **Integration Support**: Easy integration with existing plugins
+
+## Requirements
+
+- **Minecraft**: 1.21+
+- **Server Software**: Paper/Spigot
+- **Dependencies**: Simple Voice Chat plugin
+- **Java**: 17 or higher
+
+## Quick Start
+
+1. **Install Simple Voice Chat** on your server
+2. **Download Amplifier** from the releases page
+3. **Place the JAR** in your plugins folder
+4. **Start your server** - Amplifier will generate a default configuration
+5. **Configure settings** in `plugins/Amplifier/config.yml`
+6. **Restart your server** to apply changes
+
+## Documentation Sections
+
+- **[Server Owner Guide](Server-Owner-Guide.md)**: Complete setup and configuration guide
+- **[Developer API](Developer-API.md)**: API documentation for plugin developers
+- **[Commands Reference](Commands-Reference.md)**: All available commands and permissions
+- **[Configuration](Configuration.md)**: Detailed configuration options
+- **[Troubleshooting](Troubleshooting.md)**: Common issues and solutions 
